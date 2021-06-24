@@ -20,3 +20,4 @@
 ## Socials / Networking 
 
 * Telegram group - https://t.me/DFDevs
+* Discord Server - https://discord.gg/ESCYTp5m6e 
