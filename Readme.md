@@ -1,9 +1,10 @@
 ## Learning to Code resources
-
+https://developerdirection.com/courses/ - Courses available to learn programming
 
 ## Dev's new to Crypto Resources
 
 https://cryptozombies.io/ - Step by Step Solidity coding tutorial
+https://www.youtube.com/c/DappUniversity/playlists - Some video courses on learning to code in crypto
 
 ### How the blockchain works
 https://twit.tv/shows/security-now/episodes/287 - Starts at 42:00 (Transcript https://www.grc.com/sn/sn-287.pdf)
